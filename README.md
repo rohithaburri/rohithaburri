@@ -1,4 +1,4 @@
-Hi there! 🙋🏻‍♀️
+Hi there! 🙋🏻‍♀️   
 I'm Rohitha, a python/sql developer from India.
 
 ✨ About Me in 60 Secs ✨

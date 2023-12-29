@@ -1,8 +1,8 @@
 Hi there! 🙋🏻‍♀️
 I'm Rohitha, a python/sql developer from India.
 
-. ✨ About Me in 60 Secs ✨
-. 👩🏻‍💻 Electronics engineering graduate turned python/sql developer
+* ✨ About Me in 60 Secs ✨. 
+* 👩🏻‍💻 Electronics engineering graduate turned python/sql developer
 . 👀 I can make your data to tell a story that can answer your business problems
 . 📝 Taught myself Python - Django and Flask web frameworks, SQL
 . 🏢Trained in Python and SQL during my Foundation Training Program

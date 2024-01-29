@@ -7,6 +7,6 @@ I'm Rohitha, a python/sql developer from India.
 * 📝 Taught myself Python - Django and Flask web frameworks, SQL
 * 🏢Trained in Python and SQL during my Foundation Training Program
 * 💞️ I’m looking to collaborate on Python web development/SQL 
-* 🌠Worked as a VMWare Administrator for 2.11 Years in Infosys.
+* 🌠Worked as a VMWare Administrator for 3 Years in Infosys.
 * 📈 Python certification from edX
 
